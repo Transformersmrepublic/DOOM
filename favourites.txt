@@ -1,0 +1,6 @@
+Burger
+Fries
+Tacos
+Pizzas
+Dosa
+Vada Pav
